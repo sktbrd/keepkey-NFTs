@@ -34,7 +34,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-	appName: "My Alchemy DApp",
+	appName: "keepkey NFTs",
 	chains,
 });
 
